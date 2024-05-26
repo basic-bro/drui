@@ -1,0 +1,7 @@
+build/app
+build/Layout
+build/SDL_FontCache
+
+*.exe
+*.lib
+*.sln

@@ -1,0 +1,2 @@
+// States used by core (DO NOT EDIT)
+WidgetState, TextState, Transform, VisibleChildren, OnBuildLayout
