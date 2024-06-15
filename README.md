@@ -25,3 +25,6 @@ include/SDL2/SDL*.h
 Note:
 - the `lib/bin` folder is in my `PATH` environment variable.
 - the entry `SDL*.h` denotes **all** the header files provided by the above-mentioned SDL2 libraries. (Yes, I put them all in one folder.)
+
+## License
+This repo uses the MIT license. Note that `SDL_FontCache` uses the MIT license, and the external SDL2 libraries use the zlib license.
